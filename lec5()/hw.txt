@@ -1,0 +1,15 @@
+read line function
+
+
+display
+1,char by char
+2 word by word
+3 line
+4 chunk 
+
+
+read about 
+write sync
+write file sync
+write file
+
